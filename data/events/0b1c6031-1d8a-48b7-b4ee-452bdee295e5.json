@@ -2,10 +2,10 @@
   "audiovisual_files": {
     "fe64b13a-5529-49dc-9c42-fcefffeeda63": {
       "label": "First recording",
-      "is_offline": true,
+      "is_offline": false,
       "file_type": "Audio",
-      "file_url": "",
-      "duration": 0,
+      "file_url": "https://www.floridamemory.com/fpc/memory/Collections/folklife/folklife-MP3/T86-243.ogg",
+      "duration": 3530,
       "caption_set": [],
       "set_sort": []
     }
@@ -16,15 +16,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "This is a demo."
         }
       ]
     }
   ],
   "citation": "",
-  "label": "My Father laughing",
+  "label": "Testing2",
   "created_at": "2025-07-15T14:17:55.261Z",
   "created_by": "martha-thomae",
-  "updated_at": "2025-07-15T14:17:55.261Z",
-  "updated_by": "martha-thomae"
+  "updated_at": "2025-07-15T14:20:05.030Z",
+  "updated_by": "martha-thomae",
+  "av_file_order": [
+    "fe64b13a-5529-49dc-9c42-fcefffeeda63"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/NoC-US/1.0/"
 }
