@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "martha-thomae",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13948831?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "martha-thomae",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-07-15T14:10:27.784Z",
-    "updated_at": "2025-07-15T14:10:27.784Z"
-  }
+    "updated_at": "2025-07-15T14:10:27.784Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "da503bef-ecfd-401a-914a-114931815544": {
+      "content": [],
+      "created_at": "2025-07-15T14:10:27.787Z",
+      "created_by": "martha-thomae",
+      "title": "Testing ADHO",
+      "updated_at": "2025-07-15T14:10:27.787Z",
+      "updated_by": "martha-thomae",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "da503bef-ecfd-401a-914a-114931815544"
+  ]
 }
