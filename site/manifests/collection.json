@@ -1,1 +1,1 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://martha-thomae.github.io/testing-adho/manifests/collection.json","type":"Collection","label":{"en":["Testing ADHO"]},"items":[]}
+{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://martha-thomae.github.io/testing-adho/manifests/collection.json","type":"Collection","label":{"en":["Testing ADHO"]},"items":[{"id":"https://martha-thomae.github.io/testing-adho/manifests/testing2.json","type":"Manifest","label":{"en":["Testing2"]}}]}
